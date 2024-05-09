@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "TIER 1 - EVENT NAME HERE",
-    "date": "Date Information",
+    "title": "Cultivate 2024",
+    "date": "June 20th 2024",
     "dateLayout": true,
-    "time": "Timezone",
+    "time": "Pacific Timezone",
     "buttons": {
       "registerButton": {
         "text": "Register Now",
