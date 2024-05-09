@@ -1,15 +1,6 @@
 {
   "items": [
     {
-      "title": "Lobby",
-      "link": "/a/",
-      "display": true,
-      "requiresAuth": true,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "Schedule",
       "link": "/a/schedule",
       "display": true,
