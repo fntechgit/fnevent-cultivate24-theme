@@ -1,0 +1,21 @@
+[build]
+  publish = "public"
+  command = "yarn gatsby-clean && yarn build"
+[context.branch-deploy]
+  ignore = "bash ./netlify-build-ignore.sh"
+[build.environment]
+  NODE_VERSION = "18.15.0"
+  YARN_VERSION = "1.22.19"
+  YARN_FLAGS = "--no-ignore-optional"
+  NODE_OPTIONS = "--max-old-space-size=10240"
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+     Referrer-Policy = "strict-origin-when-cross-origin"
+[[headers]]
+  for = "/fonts/*"
+    [headers.values]
+     Access-Control-Allow-Origin = "*"
