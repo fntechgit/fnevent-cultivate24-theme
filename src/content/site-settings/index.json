@@ -72,5 +72,16 @@
   "lastBuild": 1709766474818,
   "siteMetadata": {
     "title": "Cultivate 2024"
+  },
+  "favicon": {
+    "asset": "cultivate24-favicon.png"
+  },
+  "siteFont": {
+    "regularFont": {
+      "fontFile": "/static/fonts/proximanovaregular.otf"
+    },
+    "boldFont": {
+      "fontFile": "/static/fonts/proximanovabold.otf"
+    }
   }
 }
