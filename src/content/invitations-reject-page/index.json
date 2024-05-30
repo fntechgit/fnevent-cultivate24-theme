@@ -4,6 +4,6 @@
   "rejectedText": "Thank you. You have declined this invitation.",
   "rejectCTALabel": "Decline Invitation",
   "rejectText": "Are you sure? We’d love to see you at Cultivate ‘24!",
-  "alreadyAcceptedInvitationError": "This invitation has already been accepted and a ticket has been issued.  Are you sure you want to decline?  This will deactivate your ticket. ",
+  "alreadyAcceptedInvitationError": "This invitation has already been accepted and a ticket has been issued.  Please email events@sanjose.org for additional assistance.",
   "alreadyRejectedInvitationError": "Thank you. You have declined this invitation and your ticket has been deactivated."
 }
