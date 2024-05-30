@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "requiresAuth": false,
+      "showOnlyAtShowTime": false,
+      "pageRestriction": [
+        "ANY"
+      ],
+      "title": "Home",
+      "link": "/a/",
+      "display": true
+    },
+    {
       "title": "Schedule",
       "link": "/a/schedule",
       "display": true,
