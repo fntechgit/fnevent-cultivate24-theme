@@ -1,0 +1,8 @@
+{
+  "title": "Decline Invitation to Cultivate ‘24",
+  "notFoundText": "Sorry, we cannot locate your invitation. Please email events@sanjose.org for additional assistance.",
+  "rejectedText": "Are you sure? We’d love to see you at Cultivate ‘24!",
+  "rejectCTALabel": "Decline Invitation",
+  "rejectText": "Thank you. You have declined this invitation.",
+  "alreadyAcceptedInvitationError": "This invitation has already been declined. Please contact the event organizer if you feel this is an error."
+}
