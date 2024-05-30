@@ -55,7 +55,7 @@
       ]
     },
     {
-      "title": "My Orders/Tickets",
+      "title": "My Order/Ticket",
       "link": "/a/my-tickets",
       "display": true,
       "requiresAuth": true,
