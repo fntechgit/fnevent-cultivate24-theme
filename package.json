@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "@openeventkit/event-site": "2.0.112",
-    "gatsby": "5.8.1"
+    "gatsby": "^5.13.5"
   }
 }
