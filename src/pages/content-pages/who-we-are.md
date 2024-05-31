@@ -15,7 +15,7 @@ Team San Jose is an innovative partnership unifying the San Jose Convention and 
 
 - - -
 
-# Team San Jose Values
+# **Team San Jose Values**
 
 * We empower leaders in the Arts, Business, Labor, and Hotel communities to work together.
 * We are dedicated to an open and honest dialogue among diverse partners.
@@ -26,7 +26,7 @@ Team San Jose is an innovative partnership unifying the San Jose Convention and 
 
 - - -
 
-# Destination Marketing Accreditation Program Certification
+# **Destination Marketing Accreditation Program Certification**
 
 San Jose received its Destination Marketing Accreditation Program (DMAP) in 2010. The globally recognized DMAP certification serves as a visible industry distinction that defines quality and performance standards in destination marketing and management. Achieving DMAP accreditation positions a destination management organization (DMO) or CVB as a valued and respected organization in your community and increases your credibility among stakeholders.
 
@@ -34,7 +34,7 @@ The DMAP program is powered by Destinations International (DI), a travel industr
 
 - - -
 
-# Contact Us
+# **Contact Us**
 
 Visit San Jose
 
