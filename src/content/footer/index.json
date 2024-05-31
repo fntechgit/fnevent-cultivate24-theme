@@ -64,17 +64,17 @@
         "display": true
       },
       {
-        "icon": "instagram",
+        "icon": "fa-instagram",
         "link": "https://www.instagram.com/visitsanjose/",
         "display": true
       },
       {
-        "icon": "linkedin",
+        "icon": "fa-linkedin",
         "link": "https://www.linkedin.com/company/visitsanjose",
         "display": true
       },
       {
-        "icon": "x-twitter",
+        "icon": "fa-x-twitter",
         "link": "https://x.com/VisitSanJose",
         "display": true
       }
