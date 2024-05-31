@@ -5,11 +5,11 @@ userRequirement: NONE
 ---
 **Q.  I would like more information about the event. Who should I contact?** 
 
-* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com) 
+* For information about attending, please email <a href="mailto:events@sanjose.com">events@sanjose.com</a>
 
 **Q.  I would like to be invited to the event. Who should I contact?** 
 
-* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com) 
+* For information about attending, please email <a href="mailto:events@sanjose.com">events@sanjose.com</a>
 
 **Q.  I’m having trouble registering for an event. Who should I contact?**  
 
@@ -17,4 +17,4 @@ userRequirement: NONE
 
 **Q.  I would like more information about Team San Jose. Who should I contact?** 
 
-* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com)
+* For information about attending, please email [](mailto:support@fntech.com)<a href="mailto:events@sanjose.com">events@sanjose.com</a>
