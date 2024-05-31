@@ -47,15 +47,6 @@
       ]
     },
     {
-      "title": "Contact",
-      "link": "/contact",
-      "display": true,
-      "requiresAuth": false,
-      "pageRestriction": [
-        "ANY"
-      ]
-    },
-    {
       "title": "Help",
       "link": "/help",
       "display": true,
