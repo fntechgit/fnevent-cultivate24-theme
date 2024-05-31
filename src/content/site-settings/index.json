@@ -42,34 +42,34 @@
   "staticJsonFilesBuildTime": [
     {
       "file": "src/data/summit.json",
-      "build_time": 1709766469125
+      "build_time": 1717187426036
     },
     {
       "file": "src/data/events.json",
-      "build_time": 1709766471276
+      "build_time": 1717187427655
     },
     {
       "file": "src/data/events.idx.json",
-      "build_time": 1709766471278
+      "build_time": 1717187427657
     },
     {
       "file": "src/data/speakers.json",
-      "build_time": 1709766472403
+      "build_time": 1717187428484
     },
     {
       "file": "src/data/speakers.idx.json",
-      "build_time": 1709766472403
+      "build_time": 1717187428485
     },
     {
       "file": "src/content/sponsors.json",
-      "build_time": 1709766474440
+      "build_time": 1717187428884
     },
     {
       "file": "src/data/voteable-presentations.json",
-      "build_time": 1709766474818
+      "build_time": 1717187429267
     }
   ],
-  "lastBuild": 1709766474818,
+  "lastBuild": 1717187429267,
   "siteMetadata": {
     "title": "Cultivate ‘24: Community"
   },
@@ -78,10 +78,13 @@
   },
   "siteFont": {
     "regularFont": {
-      "fontFile": "/static/fonts/proximanovaregular.otf"
+      "fontFile": "/static/fonts/proximanovaregular.otf",
+      "fontFormat": "eot"
     },
     "boldFont": {
-      "fontFile": "/static/fonts/proximanovabold.otf"
-    }
+      "fontFile": "/static/fonts/proximanovabold.otf",
+      "fontFormat": "otf"
+    },
+    "fontFamily": "proximanova"
   }
 }
