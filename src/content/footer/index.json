@@ -59,7 +59,7 @@
     "display": true,
     "networks": [
       {
-        "icon": "facebook",
+        "icon": "fa-facebook",
         "link": "https://www.facebook.com/visitsanjose/",
         "display": true
       },
