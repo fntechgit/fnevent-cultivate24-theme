@@ -1,6 +1,6 @@
 ---
 templateKey: content-page
-title: Who we are
+title: ""
 userRequirement: NONE
 ---
 # **Misson**
