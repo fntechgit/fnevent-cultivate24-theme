@@ -31,7 +31,7 @@
     {
       "title": "About the event",
       "link": "/about-event",
-      "display": true,
+      "display": false,
       "requiresAuth": false,
       "pageRestriction": [
         "ANY"
