@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Cultivate ‘24: Community",
-    "date": "June 20 • San Jose McEnery Convention Center",
+    "date": "June 20 • San Jose Convention Center",
     "dateLayout": true,
     "time": "Pacific Time ",
     "buttons": {
@@ -37,12 +37,12 @@
       "display": true,
       "title": "",
       "image": {
-        "src": "cultivate24-container-left.png"
+        "src": "cultivate24-container-left-rev2.png"
       }
     },
     "content": {
       "display": false,
-      "body": "### **SCHEDULE**\n\n4:30 PM\n\nEvent Check-In\n\n4:30 - 6:30 PM\n\nReception Food and Drinks\n\n### **LOCATION**\n\nGrand Ballroom Prefunction Area Concourse Level of the San Jose McEnery Convention Center"
+      "body": "### **SCHEDULE**\n\n4:30 PM\n\nEvent Check-In\n\n4:30-6:30 PM\n\nReception\n\n### **LOCATION**\n\nThe pre-function area outside the Grand Ballroom of the San Jose McEnery Convention Center"
     }
   },
   "masonry": {
