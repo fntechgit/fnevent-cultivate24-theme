@@ -19,6 +19,7 @@
     "@openeventkit/event-site": "2.0.112",
     "assert": "^2.1.0",
     "babel-preset-gatsby": "^3.13.2",
-    "gatsby": "^5.13.5"
+    "gatsby": "^5.13.5",
+    "stream-browserify": "^3.0.0"
   }
 }
