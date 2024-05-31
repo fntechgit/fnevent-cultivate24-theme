@@ -17,12 +17,6 @@
     "images": [
       {
         "src": "cultivate24-header-r.png"
-      },
-      {
-        "src": ""
-      },
-      {
-        "src": ""
       }
     ]
   },
@@ -57,9 +51,6 @@
         "images": [
           {
             "src": "cultivate24-space1.png"
-          },
-          {
-            "src": "tier1-default-space4.png"
           }
         ]
       },
