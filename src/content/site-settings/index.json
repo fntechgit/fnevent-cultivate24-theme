@@ -79,7 +79,7 @@
   "siteFont": {
     "regularFont": {
       "fontFile": "/static/fonts/proximanovaregular.otf",
-      "fontFormat": "eot"
+      "fontFormat": "otf"
     },
     "boldFont": {
       "fontFile": "/static/fonts/proximanovabold.otf",
