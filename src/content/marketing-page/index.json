@@ -29,7 +29,7 @@
   },
   "widgets": {
     "schedule": {
-      "display": true,
+      "display": false,
       "title": "Full Event Schedule"
     },
     "disqus": {
@@ -37,8 +37,11 @@
       "title": "Join the Conversation"
     },
     "image": {
-      "display": false,
-      "title": "Image"
+      "display": true,
+      "title": "",
+      "image": {
+        "src": "cultivate24-container-left.png"
+      }
     },
     "text": {
       "display": false,
