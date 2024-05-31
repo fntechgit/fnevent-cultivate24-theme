@@ -53,7 +53,8 @@
         "size": 2,
         "images": [
           {
-            "src": "cultivate24-space1-rev2.png"
+            "src": "cultivate24-space1-rev2.png",
+            "link": "https://www.sanjose.org/meet"
           }
         ]
       },
@@ -62,7 +63,8 @@
         "size": 1,
         "images": [
           {
-            "src": "cultivate24-space2.png"
+            "src": "cultivate24-space2.png",
+            "link": "https://www.sanjose.org/meet"
           }
         ]
       },
@@ -80,7 +82,8 @@
         "size": 2,
         "images": [
           {
-            "src": "cultivate24-space4.png"
+            "src": "cultivate24-space4.png",
+            "link": "https://www.sanjose.org/meet"
           }
         ]
       }
