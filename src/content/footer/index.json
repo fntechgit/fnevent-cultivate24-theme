@@ -2,7 +2,7 @@
   "columns": [
     {
       "title": "The Event",
-      "display": true,
+      "display": false,
       "items": [
         {
           "title": "All Projects",
@@ -20,7 +20,7 @@
     },
     {
       "title": "The Vision",
-      "display": true,
+      "display": false,
       "items": [
         {
           "title": "About",
