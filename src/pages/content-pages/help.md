@@ -1,8 +1,26 @@
 ---
 templateKey: content-page
-userRequirement: NONE
 title: Help
+userRequirement: NONE
 ---
-YOU DECIDE!
+Q.  I would like more information about the event. Who should I contact? 
 
-Whether this goes to our tech support group, your internal events team, the registration folks, or all of the above, having a simple “help” tab in the top navigation ensures your attendees have a direct link to someone who can assist immediately.
+* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com) 
+
+  `break`
+
+Q.  I would like to be invited to the event. Who should I contact? 
+
+* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com) 
+
+`break`
+
+Q.  I’m having trouble registering for an event. Who should I contact?  
+
+* For FNregistration support, please email [registration@fntech.com](mailto:registration@fntech.com). Please be sure to indicate which event you’re attending.  
+
+  `break`
+
+Q.  I would like more information about Team San Jose. Who should I contact? 
+
+* For information about attending, please email [events@sanjose.org](mailto:support@fntech.com)
