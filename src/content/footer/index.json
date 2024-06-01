@@ -59,22 +59,22 @@
     "display": true,
     "networks": [
       {
-        "icon": "facebook",
+        "icon": "fa-facebook",
         "link": "https://www.facebook.com/visitsanjose/",
         "display": true
       },
       {
-        "icon": "instagram",
+        "icon": "fa-instagram",
         "link": "https://www.instagram.com/visitsanjose/",
         "display": true
       },
       {
-        "icon": "linkedin",
+        "icon": "fa-linkedin",
         "link": "https://www.linkedin.com/company/visitsanjose",
         "display": true
       },
       {
-        "icon": "x-twitter",
+        "icon": "fa-twitter",
         "link": "https://x.com/VisitSanJose",
         "display": true
       }
