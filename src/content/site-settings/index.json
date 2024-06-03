@@ -16,27 +16,6 @@
       "providerLabel": "Continue with FNid",
       "providerLogo": "logo_fn.svg",
       "providerLogoSize": 27
-    },
-    {
-      "buttonColor": "#0A66C2",
-      "providerLabel": "Sign in with LinkedIn",
-      "providerParam": "linkedin",
-      "providerLogo": "logo_linkedin.svg",
-      "providerLogoSize": 18
-    },
-    {
-      "buttonColor": "#000000",
-      "providerLabel": "Sign in with Apple",
-      "providerParam": "apple",
-      "providerLogoSize": 17,
-      "providerLogo": "logo_apple.svg"
-    },
-    {
-      "buttonColor": "#1877F2",
-      "providerLabel": "Login with Facebook",
-      "providerParam": "facebook",
-      "providerLogo": "logo_facebook.svg",
-      "providerLogoSize": 20
     }
   ],
   "staticJsonFilesBuildTime": [
