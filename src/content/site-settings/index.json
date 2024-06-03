@@ -12,9 +12,9 @@
   },
   "identityProviderButtons": [
     {
-      "buttonColor": "#082238",
+      "buttonColor": "#0c64c8",
       "providerLabel": "Continue with FNid",
-      "providerLogo": "logo_fn.svg",
+      "providerLogo": "fntech-social-bug_white_no-padding.svg",
       "providerLogoSize": 27
     }
   ],
