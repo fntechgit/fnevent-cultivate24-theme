@@ -50,7 +50,9 @@
   ],
   "lastBuild": 1717187429267,
   "siteMetadata": {
-    "title": "Cultivate ‘24: Community"
+    "title": "Cultivate ‘24: Community",
+    "description": "Welcome to our vibrant San Jose community!\nMix and mingle with event professionals, hoteliers and diverse partners over delicious bites and handcrafted cocktails inspired by our unique neighborhoods!",
+    "image": "cultivate24-meta-data.png"
   },
   "favicon": {
     "asset": "cultivate24-favicon-rev2.png"
