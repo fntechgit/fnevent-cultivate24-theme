@@ -2602,10 +2602,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@openeventkit/event-site@2.0.114":
-  version "2.0.114"
-  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.114.tgz#2a50176f6169470d71522391b1703f9762f0e171"
-  integrity sha512-+i0mWlo/xRm90wCQithAkcp5IUGAEegjuEmVsP+yYGtbanbsOX4vsXeWLLLTeUAnGOZjxeDUjEJR/DzyPSxpWw==
+"@openeventkit/event-site@2.0.115":
+  version "2.0.115"
+  resolved "https://registry.yarnpkg.com/@openeventkit/event-site/-/event-site-2.0.115.tgz#6e01b7907d9f8448327633637e69a1c6405189ed"
+  integrity sha512-4hQpDN1N3y62ETsvzYNR4AkxCC7dLTS/EgfdirmH9cOtw1SqbxH1ANC+lX1PGDVba4O13GOK4ErESdA2IsRLnA==
   dependencies:
     "@fortawesome/fontawesome-svg-core" "^6.5.2"
     "@fortawesome/free-brands-svg-icons" "^6.5.2"
@@ -2707,7 +2707,7 @@
     react-redux "^7.2.6"
     react-rte "^0.16.3"
     react-select "^2.4.4"
-    react-slick "^0.27.0"
+    react-slick "^0.30.2"
     react-star-ratings "^2.3.0"
     react-stars "^2.2.5"
     react-tabs "^3.0.0"
@@ -15890,10 +15890,10 @@ react-side-effect@^2.1.0:
   resolved "https://registry.yarnpkg.com/react-side-effect/-/react-side-effect-2.1.2.tgz#dc6345b9e8f9906dc2eeb68700b615e0b4fe752a"
   integrity sha512-PVjOcvVOyIILrYoyGEpDN3vmYNLdy1CajSFNt4TDsVQC5KpTijDvWVoR+/7Rz2xT978D8/ZtFceXxzsPwZEDvw==
 
-react-slick@^0.27.0:
-  version "0.27.14"
-  resolved "https://registry.yarnpkg.com/react-slick/-/react-slick-0.27.14.tgz#9d3ec15e8b8d73b898bec2817efa1b670e79fab0"
-  integrity sha512-EjNQUpuj09Ef+nKuJjnZZ76v6JngHYFrMoACAt8I3c3TD8EIW3dHfjDKtMQCFvEbXTz8AdwQ2gCv990mazkvMA==
+react-slick@^0.30.2:
+  version "0.30.2"
+  resolved "https://registry.yarnpkg.com/react-slick/-/react-slick-0.30.2.tgz#b28e992f9c519bb516a0af8d37e82cb59fee08ce"
+  integrity sha512-XvQJi7mRHuiU3b9irsqS9SGIgftIfdV5/tNcURTb5LdIokRA5kIIx3l4rlq2XYHfxcSntXapoRg/GxaVOM1yfg==
   dependencies:
     classnames "^2.2.5"
     enquire.js "^2.1.6"

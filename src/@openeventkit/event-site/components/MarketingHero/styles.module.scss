@@ -1,0 +1,73 @@
+@import "@openeventkit/event-site/src/styles/colors.scss";
+
+.mainColumn {
+  background-color: var(--color_secondary_contrast);
+  min-height: 100%;
+  background-size: cover;
+  h1 {
+    font-size: calc(50px + (50 - 42) * (100vw - 250px) / (1080 - 250));
+    font-weight: bold;
+    margin-top: 0rem;
+    color: rgb(0, 101, 127)!important;
+  }
+  h2 {
+    font-size: calc(40px + (40 - 36) * (100vw - 250px) / (1080 - 20));
+    font-weight: normal;
+  }
+  h4 {
+    font-size: calc(22px + (22 - 14) * (100vw - 250px) / (1080 - 250));
+    font-weight: bold;
+  }
+  h2,
+  h4 {
+    color: rgb(44, 44, 44);
+  }
+  .heroBody {
+    padding: 4rem 3rem;
+  }
+}
+
+.imagesColumn {
+  :global(.slick-slider) {
+    height: 100%; /* Ensure the slider takes the full height of its parent */
+    position: relative; /* Position the slider container */
+    :global(.slick-list) {
+      height: 100%; /* Ensure the slick-list takes the full height of its parent */
+      overflow: hidden; /* Hide any overflow to prevent scrollbar affecting layout */
+      :global(.slick-track) {
+        display: flex;
+        align-items: stretch;
+        height: 100%; /* Ensure the slick-track takes the full height */
+        :global(.slick-slide) {
+          display: flex;
+          justify-content: center;
+          align-items: stretch;
+          height: 100%; /* Ensure each slide takes the full height of the slick-track */
+          position: relative; /* Ensure relative positioning for the slide */
+          div {
+            width: 100%;
+            position: relative; /* Position the container for enforcing aspect ratio */
+            &::before {
+              content: ""; /* Create a pseudo-element */
+              display: block;
+              padding-top: 56.25%; /* 16:9 aspect ratio (9 / 16 * 100) */
+            }
+            img {
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+              object-fit: cover; /* Cover the entire container without distorting the image */
+              object-position: center; /* Center the image within the container */
+            }
+          }
+        }
+      }
+    }
+  }
+  .singleImage {
+    height: 100%;
+    background-size: cover;
+  }
+}

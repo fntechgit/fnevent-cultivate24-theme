@@ -1,0 +1,31 @@
+.button {
+  background-color: #00657F!important;
+  color: #fff!important;
+  height: 5rem!important;
+  width: 20rem!important;
+  i {
+    color: #fff;
+    height: 1em!important;
+    width: 2.5em!important;
+    font-size: 1.8em!important;
+  }
+  b {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+  }
+  &:hover,
+  &:active {
+    border-color: #fff!important;
+  }
+  &:focus {
+    border-color: #fff!important;
+  }
+  &.register {
+    background-color: #66CFE3!important;
+    color: #fff!important;
+    i {
+      color: #fff!important;
+    }
+  }
+}
