@@ -9,7 +9,7 @@ userRequirement: NONE
 
 **Q. I would like to be invited to the event. Who should I contact?**
 
-* For information about attending, please email [esm@sanjose.org](mailto:esm@sanjose.org</a>
+* For information about attending, please email [esm@sanjose.org](mailto:esm@sanjose.org)
 
 **Q. If I can no longer attend the event, how do I cancel my ticket?**
 
